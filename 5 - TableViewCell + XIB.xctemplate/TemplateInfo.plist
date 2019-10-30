@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Options</key>
+	<array>
+		<dict>
+			<key>Default</key>
+			<string>Label Text</string>
+			<key>Identifier</key>
+			<string>labelText</string>
+			<key>Name</key>
+			<string>Label&apos;s text:</string>
+			<key>Required</key>
+			<true/>
+			<key>Type</key>
+			<string>text</string>
+		</dict>
+		<dict>
+			<key>Default</key>
+			<string>Button Title</string>
+			<key>Identifier</key>
+			<string>buttonText</string>
+			<key>Name</key>
+			<string>Buttons&apos;s text:</string>
+			<key>Required</key>
+			<true/>
+			<key>Type</key>
+			<string>text</string>
+		</dict>
+	</array>
+	<key>Description</key>
+	<string>Provides a Custom Cell with XIB File</string>
+	<key>Kind</key>
+	<string>Xcode.IDEKit.TextSubstitutionFileTemplateKind</string>
+	<key>Platforms</key>
+	<array>
+		<string>com.apple.platform.iphoneos</string>
+	</array>
+</dict>
+</plist>
